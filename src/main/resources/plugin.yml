@@ -1,0 +1,7 @@
+name: ElementMeteor
+version: '1.0'
+main: ru.elementcraft.elementmeteor.ElementMeteor
+api-version: '1.16'
+depend: [ProjectKorra]
+commands:
+  elementmeteor: {}
