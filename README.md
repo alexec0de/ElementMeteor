@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-8+-orange.svg)](https://java.com)
 [![Paper](https://img.shields.io/badge/Paper-1.16.5-blue.svg)](https://papermc.io)
-[![LiteCommands](https://img.shields.io/badge/LiteCommands-3.9.6-green.svg)](https://github.com/Rollczi/LiteCommands)
+[![LiteCommands](https://img.shields.io/badge/LiteCommands-3.9.7-green.svg)](https://github.com/Rollczi/LiteCommands)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > 🎯 **Тестовое задание для ElementCraft** - Плагин для майнкрафта с системой метеора
